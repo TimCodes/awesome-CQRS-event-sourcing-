@@ -1,4 +1,6 @@
 # Awesome Event Sourcing and CQRS
+Inline-style: 
+![alt text](https://media.giphy.com/media/bfGK4ihDc2rDi/giphy.gif "peter griffen ")
 
 ## list of all things CQRS and Event Sourcing 
 
