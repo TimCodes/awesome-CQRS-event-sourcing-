@@ -44,6 +44,8 @@
 
 ### Videos
 
+[GregYoung 8 CQRS Class](https://www.youtube.com/watch?v=whCk1Q87_ZI)
+
 [Greg Young & James Nugent Event Sourcing & Immutable infrastructure](https://www.youtube.com/watch?v=y3kOCAiHr3A)
 
 [Martin Kleppmann — Event Sourcing and Stream Processing at Scale](https://www.youtube.com/watch?v=avi-TZI9t2I&t=1s)
@@ -58,5 +60,4 @@
 ### Other
 
 [Nicole Rauch Homomorphic Event Sourcing](https://dddeurope.com/2018/speakers/nicole-rauch/#handson)
-
 
