@@ -42,6 +42,9 @@
 
 [Domain Driven Design](https://books.google.com/books/about/Domain_driven_Design.html?id=xColAAPGubgC&printsec=frontcover&source=kp_read_button#v=onepage&q&f=false)
 
+[Reactive Micro systems](https://www.lightbend.com/blog/reactive-microsystems-the-evolution-of-microservices-at-scale-free-oreilly-report-by-jonas-boner)
+
+
 
 
 ### Videos
