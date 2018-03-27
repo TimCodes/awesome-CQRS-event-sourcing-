@@ -17,6 +17,9 @@
 
 [ReactiveTrader](https://github.com/AdaptiveConsulting/ReactiveTraderCloud)
 
+[cqrs-journey](hhttps://github.com/MicrosoftArchive/cqrs-journey)
+
+
 
 
 
